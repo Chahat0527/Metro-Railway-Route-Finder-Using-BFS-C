@@ -208,6 +208,5 @@ void adminMenu(Graph *graph)
         }
     }
 }
- 
-admin.c
+
  
